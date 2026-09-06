@@ -1,0 +1,4 @@
+interface:
+  display_name: "外刊阅读导览"
+  short_description: "自动下载最新一期英文期刊并生成包含全部文章的中文阅读导览 PDF"
+  default_prompt: "使用 $magazine-reading-guide 下载最新一期 The Economist，并生成完整中文阅读导览。"
